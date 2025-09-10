@@ -26,3 +26,7 @@ Fields extracted: cca3, name.common, capital, continents, languages, area, borde
 ## How to Run
 
 Use a Python IDE to open and run the etl_task.py file.
+
+OR 
+
+Open a terminal or command prompt and enter the command `Python etl_task.py`.
